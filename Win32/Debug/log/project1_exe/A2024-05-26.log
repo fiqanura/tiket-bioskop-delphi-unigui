@@ -1,0 +1,40 @@
+Project1.exe: 00006648: 21:59:15 []:>--------------------------------------------------------------<
+Project1.exe: 00006648: 21:59:15 [TUniServerModule]:Server First Init.
+Project1.exe: 00006648: 21:59:15 [TUniServerModule]:Start Path = C:\MBKM FIQA\cappa.id DELPHI\Win32\Debug\
+Project1.exe: 00006648: 21:59:15 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Project1.exe: 00006648: 21:59:15 [InitWebServer]:EIdCouldNotBindSocket : Could not bind socket. : Addr: $0096C3A7
+Project1.exe: 00005960: 21:59:27 []:>--------------------------------------------------------------<
+Project1.exe: 00005960: 21:59:27 [TUniServerModule]:Server First Init.
+Project1.exe: 00005960: 21:59:27 [TUniServerModule]:Start Path = C:\MBKM FIQA\cappa.id DELPHI\Win32\Debug\
+Project1.exe: 00005960: 21:59:27 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Project1.exe: 00005960: 21:59:27 [InitWebServer]:EIdCouldNotBindSocket : Could not bind socket. : Addr: $0096C3A7
+Project1.exe: 00004A8C: 21:59:33 []:>--------------------------------------------------------------<
+Project1.exe: 00004A8C: 21:59:33 [TUniServerModule]:Server First Init.
+Project1.exe: 00004A8C: 21:59:33 [TUniServerModule]:Start Path = C:\MBKM FIQA\cappa.id DELPHI\Win32\Debug\
+Project1.exe: 00004A8C: 21:59:33 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Project1.exe: 00004A8C: 21:59:33 [InitWebServer]:EIdCouldNotBindSocket : Could not bind socket. : Addr: $0096C3A7
+Project1.exe: 00008A60: 21:59:50 []:>--------------------------------------------------------------<
+Project1.exe: 00008A60: 21:59:50 [TUniServerModule]:Server First Init.
+Project1.exe: 00008A60: 21:59:50 [TUniServerModule]:Start Path = C:\MBKM FIQA\cappa.id DELPHI\Win32\Debug\
+Project1.exe: 00008A60: 21:59:50 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Project1.exe: 00008A60: 21:59:50 [InitWebServer]:EIdCouldNotBindSocket : Could not bind socket. : Addr: $0096C3A7
+Project1.exe: 000059B8: 22:01:05 []:>--------------------------------------------------------------<
+Project1.exe: 000059B8: 22:01:05 [TUniServerModule]:Server First Init.
+Project1.exe: 000059B8: 22:01:05 [TUniServerModule]:Start Path = C:\MBKM FIQA\cappa.id DELPHI\Win32\Debug\
+Project1.exe: 000059B8: 22:01:05 [TUniServerModule]:Debug Mode = ON
+Project1.exe: 000059B8: 22:01:05 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Project1.exe: 00007CD0: 22:01:55 []:>--------------------------------------------------------------<
+Project1.exe: 00007CD0: 22:01:55 [TUniServerModule]:Server First Init.
+Project1.exe: 00007CD0: 22:01:55 [TUniServerModule]:Start Path = C:\MBKM FIQA\cappa.id DELPHI\Win32\Debug\
+Project1.exe: 00007CD0: 22:01:55 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Project1.exe: 00007CD0: 22:01:55 [InitWebServer]:EIdCouldNotBindSocket : Could not bind socket. : Addr: $0096C3A7
+Project1.exe: 00008620: 22:02:18 []:>--------------------------------------------------------------<
+Project1.exe: 00008620: 22:02:18 [TUniServerModule]:Server First Init.
+Project1.exe: 00008620: 22:02:18 [TUniServerModule]:Start Path = C:\MBKM FIQA\cappa.id DELPHI\Win32\Debug\
+Project1.exe: 00008620: 22:02:18 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Project1.exe: 00008620: 22:02:18 [InitWebServer]:EIdCouldNotBindSocket : Could not bind socket. : Addr: $0096C3A7
+Project1.exe: 00001B1C: 22:03:15 []:>--------------------------------------------------------------<
+Project1.exe: 00001B1C: 22:03:15 [TUniServerModule]:Server First Init.
+Project1.exe: 00001B1C: 22:03:15 [TUniServerModule]:Start Path = C:\MBKM FIQA\cappa.id DELPHI\Win32\Debug\
+Project1.exe: 00001B1C: 22:03:15 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Project1.exe: 00001B1C: 22:03:15 [InitWebServer]:EIdCouldNotBindSocket : Could not bind socket. : Addr: $0096C3A7

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/12/18 15:58:26.000.984,=C:\cappa.id\Main.pas</Transaction>
+    <Transaction>2023/12/18 15:58:26.000.691,=C:\cappa.id\MainModule.pas</Transaction>
+    <Transaction>2023/12/18 15:58:26.000.612,=C:\cappa.id\ServerModule.pas</Transaction>
+    <Transaction>2023/12/18 17:20:02.000.206,C:\cappa.id\Project1.dproj=C:\cappa.id\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

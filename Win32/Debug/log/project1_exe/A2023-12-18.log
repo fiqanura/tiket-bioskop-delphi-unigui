@@ -1,0 +1,32 @@
+Project1.exe: 000040F8: 17:16:29 []:>--------------------------------------------------------------<
+Project1.exe: 000040F8: 17:16:29 [TUniServerModule]:Server First Init.
+Project1.exe: 000040F8: 17:16:29 [TUniServerModule]:Start Path = C:\cappa.id\Win32\Debug\
+Project1.exe: 000040F8: 17:16:29 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Project1.exe: 000040F8: 17:16:29 [TUniServerModule]:HTTP Server Started on Port: 8077
+Project1.exe: 00004AB8: 17:20:33 [127.0.0.1]:EConvertError : 'E8 E9 ' is not a valid floating point value : Addr: $0003C8F8
+Project1.exe: 000040F8: 17:21:25 [Exit]:Unexpected attempt to terminate server application with Exit Code: 0
+Project1.exe: 00005730: 17:31:47 []:>--------------------------------------------------------------<
+Project1.exe: 00005730: 17:31:47 [TUniServerModule]:Server First Init.
+Project1.exe: 00005730: 17:31:47 [TUniServerModule]:Start Path = C:\cappa.id\Win32\Debug\
+Project1.exe: 00005730: 17:31:47 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Project1.exe: 00005730: 17:31:47 [TUniServerModule]:HTTP Server Started on Port: 8077
+Project1.exe: 00005148: 17:32:25 [127.0.0.1]:EConvertError : 'E7 E8 ' is not a valid floating point value : Addr: $00D4C8F8
+Project1.exe: 00005148: 17:32:32 [127.0.0.1]:EConvertError : 'E7 E8 ' is not a valid floating point value : Addr: $00D4C8F8
+Project1.exe: 00003A10: 17:32:49 [127.0.0.1]:EConvertError : 'E7 E8 ' is not a valid floating point value : Addr: $00D4C8F8
+Project1.exe: 00005148: 17:33:37 [127.0.0.1]:EConvertError : '' is not a valid floating point value : Addr: $00D4C8F8
+Project1.exe: 0000464C: 17:37:53 [127.0.0.1]:EConvertError : 'E6 E7 ' is not a valid floating point value : Addr: $00D4C8F8
+Project1.exe: 00005730: 17:38:06 [Exit]:Unexpected attempt to terminate server application with Exit Code: 0
+Project1.exe: 00000474: 17:43:57 []:>--------------------------------------------------------------<
+Project1.exe: 00000474: 17:43:57 [TUniServerModule]:Server First Init.
+Project1.exe: 00000474: 17:43:57 [TUniServerModule]:Start Path = C:\cappa.id\Win32\Debug\
+Project1.exe: 00000474: 17:43:57 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Project1.exe: 00000474: 17:43:57 [TUniServerModule]:HTTP Server Started on Port: 8077
+Project1.exe: 00004FB4: 17:44:40 [127.0.0.1]:EConvertError : '' is not a valid floating point value : Addr: $0068C8F8
+Project1.exe: 000053AC: 17:44:56 [127.0.0.1]:EConvertError : '' is not a valid floating point value : Addr: $0068C8F8
+Project1.exe: 00000474: 18:09:14 [Exit]:Unexpected attempt to terminate server application with Exit Code: 0
+Project1.exe: 00003C70: 19:17:24 []:>--------------------------------------------------------------<
+Project1.exe: 00003C70: 19:17:24 [TUniServerModule]:Server First Init.
+Project1.exe: 00003C70: 19:17:24 [TUniServerModule]:Start Path = C:\cappa.id\Win32\Debug\
+Project1.exe: 00003C70: 19:17:24 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Project1.exe: 00003C70: 19:17:24 [TUniServerModule]:HTTP Server Started on Port: 8077
+Project1.exe: 0000328C: 19:27:38 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: WtUz9dIuqQ10DE1F8B9 ) : Addr: $00BE0C4D
